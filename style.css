@@ -1,0 +1,682 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+}
+.navbar{
+    width: 100%;
+    height: 110px;
+  
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    margin-top: 15px;
+    
+   
+    
+}
+.navbar div{
+    color: white;
+    font-size: 50px;
+    padding: 15px;
+    
+}
+.out-div{
+   
+    width: 50%;
+    display: inline-block;
+   position: relative;
+   bottom: 550px;
+   
+
+}
+#hello{
+    
+    color:white;
+    margin-left: 100px;
+    font-size: 60px;
+}
+#abhi{
+    display: inline-block;
+    position: relative;
+    left: 11px;
+    color:#8533ff;
+    font-size: 78px;
+}
+#i{
+    display: inline-block;
+    margin-left: 100px;
+    font-size: 62px;
+    color: white;
+}
+#post{
+    margin-left: 100px;
+      font-size: 30px;
+}
+
+    #img{
+        margin-left: 100px;
+        color: gray;
+    }
+    .para{
+        margin-left: 100px;
+        width: 800px;
+        height: 280px;
+       color: white;
+        font-size:30px ;
+    }
+    #bt1, #bt2{
+        font-size: 40px;
+        padding: 15px;
+        margin-left: 100px;
+        display: inline-block;
+        margin-top: 30px;
+
+    }
+    #bt1{
+        background-color: #8533ff;
+        color: black;
+        border-radius: 7px;
+        border: none;
+    }
+    #bt2{
+        color:white;
+        border: 3px solid white;
+        background-color: black;
+        border-radius: 7px;
+    }
+    .out-div2{
+        margin-left: 20px;
+        
+       
+        
+       display: inline-block;
+        width: 1200px;
+        height: 775px;
+        position: relative;
+        top: 250px;
+        
+      
+        
+    }
+    #cross{
+        margin-left: 700px;
+        position: relative;
+        bottom: 65px;
+    }
+    #ellipse{
+        margin-left: 590px;
+        position: relative;
+        bottom: 130px;
+    }
+    #rectangle{
+        margin-left: 380px;
+        position: relative;
+        bottom: 160px;
+    }
+    #photo{
+        width: 650px;
+      
+        position: relative;
+        left: 250px;
+        bottom: 730px;
+    }
+    .find{
+        width: 800px;
+        
+        padding: 5px;
+     
+        position: relative;
+        bottom: 420px;
+        margin-left: 1500px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .findme{
+        
+        color: white;
+        font-size: 55px;
+    }
+   
+    
+    
+    
+    .main{
+        width: 200px;
+        height: 150px;
+        background-color: white;
+    }
+    #off{
+        font-size: 40px;
+        color: gray;
+        text-align: center;
+        position: relative;
+        bottom: 200px;
+    }
+    #off2{
+        color: white;
+        font-weight: bolder;
+        font-size: 60px;
+        text-align: center;
+        position: relative;
+        bottom: 185px;
+    }
+    #off3{
+        color: white;
+        font-weight: bolder;
+        font-size: 60px;
+        text-align: center;
+        position: relative;
+        bottom: 200px;
+    }
+    #web{
+        width: 600px;
+       margin-left: 30%;
+       position: relative;
+       bottom: 20px;
+    }
+    #off4{
+        width: 200px;
+        position: relative;
+        bottom: 560px;
+        left: 1130px;
+    }
+    #latp{
+        color: white;
+        text-align: center;
+        font-size: 60px;
+    }
+    .project1{
+        width: 90%;
+        height: 350px;
+        background-color: #00001a;
+        display: flex;
+        justify-content: space-evenly;
+        padding: 10px;
+        position: relative;
+        left: 100px;
+        border-radius: 20px;
+    }
+    #portid{
+        width: 450px;
+        display: flex;
+        justify-content: space-evenly;
+        position: relative;
+        right: 1200px;
+        border-radius: 20px;
+        
+    }
+    .name{
+        
+        color: white;
+        font-size: 65px;
+        display: flex;
+        justify-content: center;
+        position: relative;
+        bottom: 210px;
+    }
+    .btn button{
+        margin-left: 1800px;
+        font-size: 55px;
+        padding: 15px;
+        position: relative;
+        bottom: 280px;
+        background-color: #8533ff;
+        border-radius: 15px;
+        height: 90px;
+    }
+    .project2{
+        width: 90%;
+        height: 350px;
+        background-color: #00001a;
+        display: flex;
+        justify-content: space-evenly;
+        padding: 10px;
+        position: relative;
+        left: 100px;
+        border-radius: 20px;
+    }
+    #cuid{
+        width: 450px;
+        position: relative;
+        right: 240px;
+        border-radius: 20px;
+    }
+    #cup{
+        color: white;
+        font-size: 65px;  
+        display: flex;
+        align-items: center;
+        position: relative;
+        right: 120px;
+    }
+    #but{
+        font-size: 55px;
+        padding: 15px;
+        position: relative;
+        background-color: #8533ff;
+        border-radius: 7px;
+        height: 90px;
+       position: relative;
+       top: 130px;
+       border-radius: 20px;
+    }
+    .project3{
+        width: 90%;
+        height: 350px;
+        background-color: #00001a;
+        display: flex;
+       padding: 10px;
+        position: relative;
+        left: 100px;
+        margin-top: 150px;
+        border-radius: 20px;
+    }
+    #currency{
+        width: 450px;
+        position: relative;
+         left: 10px;
+        
+    }
+    #currencyconvert{
+        color: white;
+        font-size: 65px; 
+       border-radius: 20px;
+        position: relative;
+        left: 450px;
+        display: flex;
+        align-items: center;
+    }
+    .project4{
+        width: 90%;
+        height: 350px;
+        background-color: #00001a;
+        display: flex;
+       padding: 10px;
+        position: relative;
+        left: 100px;
+        margin-top: 150px;
+        border-radius: 20px;
+    }
+     #tic{
+        width: 450px;
+        position: relative;
+         left: 10px;
+        
+    }
+     #tictac{
+        color: white;
+        font-size: 65px; 
+       border-radius: 20px;
+        position: relative;
+        left: 450px;
+        display: flex;
+        align-items: center;
+    }
+    #button{
+        font-size: 55px;
+        padding: 15px;
+        background-color: #8533ff;
+        border-radius: 7px;
+        height: 90px;
+        position: relative;
+        left: 920px;
+        top: 125px;
+        border-radius: 20px;
+       
+    }
+    .havepro{
+        width: 91%;
+        height: 350px;
+        background-color: #00001a;
+        position: relative;
+        left: 100px;
+        margin-top: 150px;
+        border-radius: 20px;
+      
+    }
+    #pro{
+     font-size: 75px;
+     color: white;
+     margin-left: 100px;
+     position: relative;
+     top: 140px;
+    }
+    #pro2{
+        color: white;
+        position: relative;
+        top: 140px;
+        font-size: 25px;
+        margin-left: 100px;
+        font-weight: lighter;
+    }
+    #email{
+        font-size: 55px;
+        padding: 15px;
+        background-color: #8533ff;
+        border-radius: 7px;
+        height: 90px;
+        position: absolute;
+        right: 270px;
+       top: 125px;
+       border-radius: 20px;
+    }
+    .hireme{
+        margin-top: 150px;
+    }
+    #hire{
+        width: 70%;
+       
+    }
+    #whyhire{
+        text-align: center;
+        font-size: 80px;
+        color: white;
+        position: relative;
+        bottom: 170px;
+    }
+    
+  
+#ellipse17{
+    position: relative;
+    left: 30px;
+    bottom: 220px;
+}
+#frame{
+    position: relative;
+   
+    right: 95px;
+    bottom: 280px;
+}
+.div1{
+   
+    width: 420px;
+    height: 530px;
+    
+}
+
+.circle1{
+    text-align: center;
+   
+
+}
+.info{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    bottom: 180px;
+}
+.infor{
+    color: white;
+    font-size: 30px;
+    position: relative;
+    bottom: 150px;
+}
+.hir{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.div2{
+    width: 420px;
+    text-align: center;
+    height: 530px;
+   
+   
+}
+
+#ellipse172{
+    position: relative;
+    left: 30px;
+    bottom: 222px;
+}
+#grp{
+    position: relative;
+    right: 100px;
+    bottom: 290px;
+}
+.info2{
+    color: white;
+    font-size: 50px;
+    position: relative;
+    bottom: 175px;
+}
+.infor2{
+    color: white;
+    font-size: 30px;
+    position: relative;
+    bottom: 145px;
+}
+.div3{
+    width: 420px;
+    text-align: center;
+    height: 530px;
+   
+  
+}
+#ellipse173{
+    position: relative;
+    bottom: 222px;
+    left: 32px;
+}
+#grp5{
+    position: relative;
+    right: 100px;
+    bottom: 290px;
+}
+.info3{
+   color: white;
+   font-size: 50px;
+   position: relative;
+   bottom: 175px;
+}
+.infor3{
+    color: white;
+    font-size: 30px;
+    position: relative;
+    bottom: 145px; 
+}
+.div4{
+    width: 420px;
+    text-align: center;
+    height: 530px;
+}
+#ellipse174{
+    position: relative;
+    bottom: 220px;
+    left: 30px;
+}
+#frame6{
+    position: relative;
+    right: 100px;
+    bottom: 290px; 
+}
+.info4{
+    color: white;
+    font-size: 50px;
+    position: relative;
+    bottom: 175px; 
+}
+.infor4{
+    color: white;
+    font-size: 30px;
+    position: relative;
+    bottom: 145px;  
+}
+.skills{
+    margin-top: 150px;
+}
+#skill{
+    width: 70%;
+}
+#tool{
+    text-align: center;
+    font-size: 80px;
+    color: white;
+    position: relative;
+        bottom: 170px;
+}
+.toolskill{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.tools{
+    width:300px;
+}
+#get{
+    color: white;
+    font-size: 75px;
+    margin-top: 250px;
+   margin-left: 200px;
+}
+#contact{
+    color: white;
+    font-size: 45px;
+    margin-left: 200px;
+}
+.call{
+    position: relative;
+    left: 200px;
+    display: inline-block;
+}
+.no{
+    display: inline-block;
+    color: white;
+    font-size: 40px;
+    margin-left: 230px;
+    position: relative;
+    bottom: 10px;
+}
+.email{
+    position: relative;
+    left: 200px;
+    display: inline-block;
+    margin-top: 65px;
+}
+.mailid{
+    color: white;
+    font-size: 40px;
+    margin-left: 290px;
+    position: relative;
+    bottom: 75px;
+    left: 10px;
+}
+.add{
+    position: relative;
+    left: 200px;
+    bottom: 10px;
+}
+.location{
+    color: white;
+    font-size: 40px; 
+    position: relative;
+    left: 270px;
+    bottom: 90px;
+  
+}
+#image{ width: 465px;
+   position: relative;
+   left: 1800px;
+   bottom: 450px;
+}
+a{
+    text-decoration: none;
+}
+    
+
+.navbar a{
+    color: white;
+}
+ .home :hover{
+    color:  #8338EC;
+   border: 1px solid  #8338EC;
+   padding: 15px;
+
+}
+.about :hover{
+    color:  #8338EC;
+    border: 1px solid  #8338EC;
+    padding: 15px;
+}
+.project :hover{
+    color:  #8338EC;
+    border: 1px solid  #8338EC;
+    padding: 15px;
+}
+.resume :hover{
+    color:  #8338EC;
+    border: 1px solid  #8338EC;
+    padding: 15px;
+}
+.contactme :hover{
+    color:  #8338EC;
+    border: 1px solid  #8338EC;
+    padding: 15px;
+}
+#bt2:hover{
+    color:  #8338EC;
+    border: 1px solod  #8338EC;
+    border-color:  #8338EC;
+    padding: 15px;
+}
+.find a :hover{
+    transform: scale(1.5);
+}
+.call:hover{
+    transform:scale(1.3);
+}
+.email:hover{
+    transform:scale(1.3);
+}
+
+#web:hover{
+    transform: rotate(360deg);
+    transition: 2s;
+}
+.circle1:hover{
+    transform: scale(1.3);
+}
+.circle2:hover{
+    transform: scale(1.3);
+}
+.circle3:hover{
+    transform: scale(1.3);
+}
+.circle4:hover{
+    transform: scale(1.3);
+}
+
+button:hover{
+    transform: scale(1.3);
+}
+#photo:hover{
+    transform: scale(1.2);
+    transition-duration: 0.5s;
+}
+.html:hover{
+    transform: scale(1.2);
+}
+.css:hover{
+    transform: scale(1.2);
+}
+.javascript:hover{
+    transform: scale(1.2);
+}
+.react:hover{
+    transform: scale(1.2);
+}
+.github:hover{
+    transform: scale(1.2);
+}
+#abhi:hover{
+    border: 1px solid #8338EC;
+    transform: translate(0px, 30px);
+    transform: scale(0.9);
+}
+
+
+
